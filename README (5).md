@@ -4,7 +4,7 @@
 
 # Abid Hasan Chowdhury Ovi
 
-### Data Analyst | Excel Specialist | Business Intelligence Enthusiast
+### Data Analytics Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abidhasanchowdhuryovi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abidhasanovi37@gmail.com)
