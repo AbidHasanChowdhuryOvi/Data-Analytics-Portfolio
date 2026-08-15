@@ -75,7 +75,10 @@ My differentiator is the combination of an **accounting foundation** and **hands
 
 | Project | Domain | Tools | Description |
 |---------|--------|-------|-------------|
-| *(Add your project names here)* | *(e.g., Sales, HR, Finance)* | *(e.g., Power BI, Excel)* | *(Brief description)* |
+| [HR Attrition Analytics Dashboard](Power-BI/HR%20Attrition%20Analytics%20Dashboard) | HR / People Analytics | Power BI | Analyzes employee turnover across departments, job roles, salary bands, and tenure to help HR pinpoint where attrition is concentrated. |
+| [Health Care Analytics Dashboard](Power-BI/Health%20Care%20Analytics%20Dashboard) | Healthcare | Power BI | Tracks billing, treatment cost, insurance coverage, and patient satisfaction across departments, procedures, and diagnoses. |
+| [Power Pizza Sales Dashboard](Power-BI/Power%20Pizza%20Sales%20Dashboard) | Restaurant / F&B Sales | Power BI | Sales performance report covering revenue, orders, and pizza sales trends by day, month, category, and size, with a peak-hour order heatmap. |
+| [Retail Sales Performance Dashboard](Excel/Retail%20Sales%20Performance%20Dashboard) | Retail | Excel (PivotTables, Slicers, Interactive Dashboards) | Region-wise retail sales analysis tracking sales vs. target, top/bottom salesperson performance, delivery days, and customer ratings. |
 
 *Click on each project folder above to view dashboards, datasets, and detailed analysis reports.*
 
