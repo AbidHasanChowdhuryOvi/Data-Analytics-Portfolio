@@ -244,12 +244,3 @@ Power-Pizza-Sales-Dashboard/
    - Hover over charts for detailed tooltips
    - Toggle between **Total Revenue**, **Total Order**, and **Total Pizza Sold** using the KPI parameter buttons at the top
 
----
-
-## 📧 Contact
-
-For questions, feedback, or collaboration opportunities, feel free to reach out!
-
----
-
-*Built with ❤️ using Power BI and DAX.*
