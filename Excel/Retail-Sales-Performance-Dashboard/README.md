@@ -39,3 +39,13 @@ The dashboard provides a consolidated view of sales performance and regional com
 ## Project Type
 
 Practical Excel-based business analytics project developed for portfolio and learning purposes.
+
+## Dashboard Preview
+
+### Retail Sales Analysis
+
+![Retail Sales Analysis](./Retail%20Region%20Wise%20Sales%20Analysis.jpg)
+
+### Retail Sales Dashboard
+
+![Retail Sales Dashboard](./Retail%20Region%20Wise%20Sales%20Dashboard.jpg)
