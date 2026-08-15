@@ -48,4 +48,8 @@ Practical Excel-based business analytics project developed for portfolio and lea
 
 ### Retail Sales Dashboard
 
-![Retail Sales Dashboard](./Retail%20Region%20Wise%20Sales%20Dashboard.jpg)
+![Retail Sales Dashboard](./Retail%20Region%20WIse%20Sales%20Dashboard.jpg)
+
+### Retail Sales Dashboard — Page 2
+
+![Retail Sales Dashboard Page 2](./Retail%20Region%20WIse%20Sales%20Dashboard%202.jpg)
